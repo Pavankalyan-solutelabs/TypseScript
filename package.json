@@ -1,0 +1,23 @@
+{
+  "name": "typsescript",
+  "version": "1.0.0",
+  "description": "Learning TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavankalyan-solutelabs/TypseScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavankalyan-solutelabs/TypseScript/issues"
+  },
+  "homepage": "https://github.com/Pavankalyan-solutelabs/TypseScript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
